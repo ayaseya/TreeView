@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="pl.polidea.treeview.demo.TreeViewListDemo"
+            android:name="pl.polidea.treeview.demo.TestTreeView"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
